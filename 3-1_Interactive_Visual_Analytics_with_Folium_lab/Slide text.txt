@@ -1,0 +1,15 @@
+Are launch sites in close proximity to railways?
+
+Yes. Launch sites are located in close proximity to railways (< 2 km) to facilitate the transportation of heavy booster stages, bulky rocket hardware, and propellant components.
+
+Are launch sites in close proximity to highways?
+
+Yes. Launch sites are situated close to major highways (< 1–2 km) to provide efficient road transport for personnel, mission equipment, and general supply logistics.
+
+Are launch sites in close proximity to coastline?
+
+Yes. Launch sites are deliberately situated directly along the coastline (< 1 km) for safety; this ensures easterly orbital launch trajectories fly over the ocean, preventing hazardous debris or abort failures from impacting populated areas.
+
+Do launch sites keep certain distance away from cities?
+
+Yes. Launch sites maintain a substantial safety buffer from urban centers (typically 20–50+ km) to shield populated areas from extreme acoustic energy, launch shock waves, and potential explosion hazards.
